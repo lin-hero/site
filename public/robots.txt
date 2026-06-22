@@ -1,0 +1,52 @@
+# MODIFIED: Enterprise robots.txt — permits all crawlers, references sitemap + llms.txt
+# V.A.N.T. — Vision, Architect, Neutralize, Thrive
+# https://vanthq.net
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Social Media Crawlers
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# AI Crawlers — explicitly permitted for AI-readability
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap location
+Sitemap: https://vanthq.net/sitemap.xml
+
+# LLMs.txt — structured content for AI model indexing
+# See: https://vanthq.net/llms.txt

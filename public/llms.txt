@@ -1,0 +1,77 @@
+# V.A.N.T. — Vision, Architect, Neutralize, Thrive
+
+> This file is designed to be read by AI crawlers and large language models (LLMs).
+> It provides a structured, authoritative summary of the V.A.N.T. organization,
+> its mission, products, and key information for AI-powered search indexing.
+
+## Identity
+
+- **Name:** V.A.N.T.
+- **Acronym Meaning:** Vision, Architect, Neutralize, Thrive
+- **Type:** Independent Software Studio / Tech Company
+- **Website:** https://vanthq.net
+- **GitHub:** https://github.com/VANT-HQ
+- **Founded:** 2024
+
+## Mission
+
+V.A.N.T. is a pragmatic software company where we go beyond writing syntax; we engineer logic. The name represents our core development philosophy and the four pillars of our workflow:
+
+1. **Vision** — Pioneering the Unconventional. Identifying opportunities others miss to transform bold concepts into forward-thinking digital realities.
+2. **Architect** — Engineering Optimal Foundations. Structuring robust, scalable systems and intuitive user experiences with a production-first mindset.
+3. **Neutralize** — Securing the Core. Proactively eliminating vulnerabilities and engineering privacy-first products to ensure unconditional data security.
+4. **Thrive** — Sustaining Continuous Evolution. Nurturing projects from launch to legacy through continuous optimization and dynamic updates.
+
+## Products
+
+### Jarvis Nexus
+- **Type:** Autonomous AI Voice Ecosystem
+- **License:** MIT (Open Source)
+- **Status:** Active Development (v1.0)
+- **Repository:** https://github.com/VANT-HQ/JARVIS-NEXUS
+- **Platforms:** Windows, Linux
+- **Description:** From cinematic fiction to local reality. An autonomous, modular AI ecosystem that brings the ultimate voice-activated assistant directly to your hardware. Engineered for blazing-fast offline inference, persistent memory, and seamless logic integration.
+- **Key Features:**
+  - Offline / locally-run — zero cloud required
+  - Native JSON mode with Qwen 2.5 LLM
+  - Smart response caching and deduplication
+  - No browser/WebView dependencies
+  - Voice-first with Whisper STT
+  - Rich visual states (idle, listening, thinking, talking)
+  - Dynamic configuration system
+  - MIT Licensed
+
+### Incoming Protocol... (Incoming Protocol...)
+- **Type:** Privacy-First Security & Notification Utility
+- **Status:** In Development
+- **Description:** A paradigm shift in digital privacy. A next-generation security utility that blends uncompromising protection with an impossibly fluid user experience. Rethink your digital boundaries.
+
+## Technology Stack
+
+V.A.N.T. works with modern technologies including:
+- React, TypeScript, Vite, Tailwind CSS
+- Three.js, Framer Motion
+- Python, Flask (backend systems)
+- Qwen LLM, Whisper STT, Ollama
+- WebSocket, Real-time systems
+
+## Contact
+
+- **Website:** https://vanthq.net
+- **Email:** Contact via https://vanthq.net/contact
+- **Twitter/X:** @VANTcreative
+
+## Key Pages
+
+| Page | URL | Description |
+|------|-----|-------------|
+| Home | https://vanthq.net/ | Main landing page with team showcase |
+| Features | https://vanthq.net/features | Platform features overview |
+| About | https://vanthq.net/about | About V.A.N.T. and the team |
+| Jarvis Nexus | https://vanthq.net/JarvisNexus | Open source AI voice assistant |
+
+
+---
+
+*Last updated: 2026-05-06*
+*Format: llms.txt (https://llmstxt.org/)*

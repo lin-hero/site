@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- MODIFIED: Hardcoded title/meta/OG tags removed — now managed dynamically by react-helmet-async via SEOHead.tsx -->
+    <!-- Only base HTML-level tags remain here as the "shell" fallback for initial crawl / no-JS scenarios -->
+    <title>V.A.N.T.</title>
+    <meta name="description" content="V.A.N.T. Engineering Logic. Securing the Core" />
+
+    <!-- Static Fallback OpenGraph / Social Meta Tags (for bots that don't run JS) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="V.A.N.T." />
+    <meta property="og:description" content="V.A.N.T. Engineering Logic. Securing the Core" />
+    <meta property="og:image" content="https://vanthq.net/og-image.jpg" />
+    <meta property="og:url" content="https://vanthq.net/" />
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@VANTcreative" />
+    <meta name="twitter:title" content="V.A.N.T." />
+    <meta name="twitter:description" content="V.A.N.T. Engineering Logic. Securing the Core" />
+    <meta name="twitter:image" content="https://vanthq.net/og-image.jpg" />
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="/favicon2.ico" />
+
+    <!-- Preconnect to critical third-party origins for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Theme color for mobile browsers -->
+    <meta name="theme-color" content="#0A0F1C" />
+
+    <!-- llms.txt reference for AI crawlers -->
+    <link rel="alternate" type="text/markdown" href="/llms.txt" title="LLM-readable site summary" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
